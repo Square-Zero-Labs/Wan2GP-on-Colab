@@ -2,6 +2,10 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Square-Zero-Labs/Wan2GP-on-Colab/blob/main/wan2gp-google-colab.ipynb)
 
+## Video walkthrough
+
+[![Wan2GP on Colab video walkthrough](https://img.youtube.com/vi/kpKYu1TaarI/hqdefault.jpg)](https://youtu.be/kpKYu1TaarI "Watch the Wan2GP Colab setup walkthrough")
+
 ## Overview
 
 This repository provides a single Google Colab notebook that automates setting up the [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) AI video generation platform in a fresh GPU-backed Colab runtime.
