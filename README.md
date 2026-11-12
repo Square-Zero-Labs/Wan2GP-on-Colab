@@ -33,9 +33,9 @@ Run the notebook top to bottom to clone Wan2GP, install all system and Python de
 - Colab may time out inactive sessions; rerun the notebook from the top to rehydrate the environment.
 - Keep the final cell running to maintain the public Gradio link; stopping it will terminate the interface.
 
-## Contributing
+## 🛠️ Related Tools
 
-Issues and pull requests are welcome. If you notice changes in Colab runtimes or Wan2GP dependencies, please open a PR so the notebook stays up to date.
+👉 Free tools for preparing assets and refining generated clips, including video background removal, frame interpolation, voice conversion and masking are available at [Fuzz Puppy](https://fuzzpuppy.com).
 
 ## Changelog
 
